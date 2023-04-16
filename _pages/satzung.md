@@ -1,6 +1,6 @@
 ---
 permalink: /satzung/
-title: "Satzung"
+title: ""
 ---
 
 # SATZUNG der Wählergemeinschaft- Aktive Wählergemeinschaft Heidmoor Stand: 01.02.2023  
