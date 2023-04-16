@@ -1,6 +1,6 @@
 ---
 permalink: /gruendungsprotokoll/
-title: "Gründungsprotokoll"
+title: ""
 ---
 
 # Protokoll der Gründungsversammlung der Aktiven Wählergemeinschaft Heidmoor  
