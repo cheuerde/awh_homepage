@@ -1,6 +1,6 @@
 ---
 permalink: /wahlprogramm/
-title: "Wahlprogramm"
+title: ""
 ---
 
 # Wahlprogramm der AWH
