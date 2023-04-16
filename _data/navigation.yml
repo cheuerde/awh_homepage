@@ -9,3 +9,5 @@ main:
     url: /satzung/
   - title: "About"
     url: /about/
+  - title: "Dokumente"
+    url: /dokumente/
