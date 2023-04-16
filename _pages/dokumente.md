@@ -7,7 +7,7 @@ title: "Dokumente"
 
 [Satzung](https://github.com/cheuerde/awh_homepage/blob/master/assets/docs/Satzung%20AWH%20Stand%2001.02.2023.pdf)
 
-[Satzung_down](/assets/docs/Satzung%20AWH%20Stand%2001.02.2023.pdf)
+[Satzung_down](./assets/docs/Satzung%20AWH%20Stand%2001.02.2023.pdf)
 
 [Wahlprogramm](https://github.com/cheuerde/awh_homepage/blob/master/assets/docs/Wahlprogramm%20AWH.pdf)
 
