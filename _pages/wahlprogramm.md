@@ -1,3 +1,8 @@
+---
+permalink: /wahlprogramm/
+title: "Wahlprogramm"
+---
+
 # Wahlprogramm der AWH
 
 Wir leben gerne in Heidmoor. Deshalb möchten wir mit daran arbeiten, die Lebensqualität 
