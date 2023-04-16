@@ -58,7 +58,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Aktive Wählergemeinschaft Heidmoor"
+  name   : "First Lastname"
   avatar : "/assets/images/logo.png"
   bio    : ""
   links:
